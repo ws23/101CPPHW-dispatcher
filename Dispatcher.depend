@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1369295153 source:f:\dispatcher\main.cpp
+	<iostream>
+	<fstream>
+	"DBase.h"
+
+1369293269 f:\dispatcher\dbase.h
+	<iostream>
+
+1369294707 source:f:\dispatcher\dbase.cpp
+	"DBase.h"
+	<iostream>
+	<cstring>
+	<algorithm>
+
